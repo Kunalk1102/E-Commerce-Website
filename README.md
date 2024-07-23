@@ -1,6 +1,7 @@
 E-Commerce Website
 
 Prepared by: Kunal Kate
+
 Overview
 
 This E-Commerce website offers a variety of products, including men's and women's clothing, accessories, and more. The site also features an informational video about our shop.
